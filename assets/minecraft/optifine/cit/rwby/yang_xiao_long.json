@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./yang_xiao_long_front",
+		"back": "./yang_xiao_long_back"
+	}
+}

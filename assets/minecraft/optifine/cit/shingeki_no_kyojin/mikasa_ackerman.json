@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./mikasa_ackerman_front",
+		"back": "./mikasa_ackerman_back"
+	}
+}

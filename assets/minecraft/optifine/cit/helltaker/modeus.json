@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./modeus_front",
+		"back": "./modeus_back"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./blake_belladonna_front",
+		"back": "./blake_belladonna_back"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./ruby_rose_front",
+		"back": "./ruby_rose_back"
+	}
+}

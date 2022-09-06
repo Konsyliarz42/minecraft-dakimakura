@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./satsuki_kyryuuin_front",
+		"back": "./satsuki_kyryuuin_back"
+	}
+}

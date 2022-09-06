@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./kujo_jotaro_front",
+		"back": "./kujo_jotaro_back"
+	}
+}

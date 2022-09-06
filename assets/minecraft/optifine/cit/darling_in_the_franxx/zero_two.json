@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./zero_two_front",
+		"back": "./zero_two_back"
+	}
+}

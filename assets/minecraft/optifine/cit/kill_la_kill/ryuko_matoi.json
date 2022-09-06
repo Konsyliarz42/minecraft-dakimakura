@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./ryuko_matoi_front",
+		"back": "./ryuko_matoi_back"
+	}
+}

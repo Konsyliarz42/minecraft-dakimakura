@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./lucifer_front",
+		"back": "./lucifer_back"
+	}
+}
