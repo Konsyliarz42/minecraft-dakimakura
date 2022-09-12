@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./historia_reiss_front",
+		"back": "./historia_reiss_back"
+	}
+}

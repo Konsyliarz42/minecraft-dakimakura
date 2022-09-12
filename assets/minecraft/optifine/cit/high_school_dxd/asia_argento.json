@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./asia_argento_front",
+		"back": "./asia_argento_back"
+	}
+}

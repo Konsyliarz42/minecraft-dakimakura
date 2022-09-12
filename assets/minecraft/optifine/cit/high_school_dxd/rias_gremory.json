@@ -1,0 +1,7 @@
+{
+	"parent": "item/dakimakura",
+	"textures": {
+		"front": "./rias_gremory_front",
+		"back": "./rias_gremory_back"
+	}
+}
